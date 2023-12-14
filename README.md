@@ -1,6 +1,6 @@
 ## Site Repo
 
-This directory contains an example of a site repo for Gru.
+This 1directory contains an example of a site repo for Gru.
 
 A site repo in Gru is essentially a Git repository with branches,
 where each branch maps to an environment, which can be used by
